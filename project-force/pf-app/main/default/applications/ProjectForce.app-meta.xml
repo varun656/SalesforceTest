@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>standard-home</defaultLandingTab>
+    <formFactors>Large</formFactors>
+    <label>Project Force</label>
+    <tabs>Projects</tabs>
+    <tabs>FeatureConsole</tabs>
+    <tabs>CostCenter__c</tabs>
+    <tabs>BudgetLineItem__c</tabs>
+    <tabs>OrganizationBudget__c</tabs>
+</CustomApplication>
